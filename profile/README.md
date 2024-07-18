@@ -1,9 +1,1 @@
-## Hi there 👋
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Unleash the digital future, with our Web Alchemy. Founded by elite Silesian innovators, our Polish software house excels in creating vibrant, full-stack solutions tailored to your needs. We combine cutting-edge technology with a personalized approach, ensuring your project stands out. Trust in our proven expertise, shaped by national IT accolades and a deep-rooted commitment to client satisfaction. Choose notByte for a partnership that transforms your vision into reality.
